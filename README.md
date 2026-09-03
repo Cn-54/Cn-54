@@ -1,16 +1,20 @@
-## Hi there 👋
+# Cn-54
 
-<!--
-**Cn-54/Cn-54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/Cn-54?style=flat&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/Cn-54?style=flat&logo=github)
 
-Here are some ideas to get you started:
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](https://streak-stats.demolab.com?user=Cn-54)
+
+## Pinned
+
+- [**RepoRecon**](https://github.com/Cn-54/RepoRecon) — Python
+- [**python-port-scanner**](https://github.com/Cn-54/python-port-scanner) — Python
+- [**Hexdump-C**](https://github.com/Cn-54/Hexdump-C) — C
+- [**simple-bytecode-vm-C**](https://github.com/Cn-54/simple-bytecode-vm-C) — C
+- [**tcp-chat-C**](https://github.com/Cn-54/tcp-chat-C) — C
+- [**chip8-c**](https://github.com/Cn-54/chip8-c) — C
