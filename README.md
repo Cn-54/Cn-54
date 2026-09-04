@@ -13,7 +13,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Cn-54&theme=transparent&hide_border=true)
 
 
-## Pinned
+## Projects
 
 - [**RepoRecon**](https://github.com/Cn-54/RepoRecon) — Python
 - [**python-port-scanner**](https://github.com/Cn-54/python-port-scanner) — Python
