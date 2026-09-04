@@ -21,3 +21,10 @@
 - [**simple-bytecode-vm-C**](https://github.com/Cn-54/simple-bytecode-vm-C) — C
 - [**tcp-chat-C**](https://github.com/Cn-54/tcp-chat-C) — C
 - [**chip8-c**](https://github.com/Cn-54/chip8-c) — C
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cn-54/Cn-54/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cn-54/Cn-54/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Cn-54/Cn-54/output/github-snake.svg">
+</picture>
