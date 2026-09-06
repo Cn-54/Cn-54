@@ -18,7 +18,7 @@
 - [**RepoRecon**](https://github.com/Cn-54/RepoRecon) — Python
 - [**python-port-scanner**](https://github.com/Cn-54/python-port-scanner) — Python
 - [**Hexdump-C**](https://github.com/Cn-54/Hexdump-C) — C
-- [**simple-bytecode-vm-C**](https://github.com/Cn-54/simple-bytecode-vm-C) — C
+- [**16-Bit CPU**](https://github.com/Cn-54/16-bit_CPU) — C
 - [**tcp-chat-C**](https://github.com/Cn-54/tcp-chat-C) — C
 - [**chip8-c**](https://github.com/Cn-54/chip8-c) — C
 
