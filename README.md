@@ -15,12 +15,20 @@
 
 ## Projects
 
-- [**RepoRecon**](https://github.com/Cn-54/RepoRecon) — Python
-- [**python-port-scanner**](https://github.com/Cn-54/python-port-scanner) — Python
-- [**Hexdump-C**](https://github.com/Cn-54/Hexdump-C) — C
-- [**16-Bit CPU**](https://github.com/Cn-54/16-bit_CPU) — C
-- [**tcp-chat-C**](https://github.com/Cn-54/tcp-chat-C) — C
-- [**chip8-c**](https://github.com/Cn-54/chip8-c) — C
+- [**RepoRecon**](https://github.com/Cn-54/RepoRecon) - Python
+  - GitHub OSINT and reconnaissance CLI tool.
+- [**Red Team lab**](https://github.com/Cn-54/Red-Team-Lab) - Python
+  - Docker labs and custom PoCs for CVEs.
+- [**python-port-scanner**](https://github.com/Cn-54/python-port-scanner) - Python
+  - Simple TCP port scanner.
+- [**Hexdump-C**](https://github.com/Cn-54/Hexdump-C) - C
+  - Memory dump tool.
+- [**16-Bit CPU**](https://github.com/Cn-54/16-bit_CPU) - C
+  - Custom 16-bit CPU with its own ISA and assembler.
+- [**tcp-chat-C**](https://github.com/Cn-54/tcp-chat-C) - C
+  - Multi-client TCP chat server.
+- [**chip8-c**](https://github.com/Cn-54/chip8-c) - C
+  - CHIP-8 emulator built with SDL3.
 
 
 <picture>
