@@ -1,5 +1,8 @@
 # Cn-54
 
+Computer Science and Cyber Security student interested in
+low-level programming, networking and security.
+
 
 ![GitHub followers](https://img.shields.io/github/followers/Cn-54?style=flat&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/Cn-54?style=flat&logo=github)
