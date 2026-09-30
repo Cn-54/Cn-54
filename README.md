@@ -17,12 +17,14 @@
 
 - [**RepoRecon**](https://github.com/Cn-54/RepoRecon) - Python
   - GitHub OSINT and reconnaissance CLI tool.
-- [**DISSONANCE**](https://github.com/Cn-54/Dissonance) - Python
+- [**Conduit**](https://github.com/Cn-54/Dissonance) - Python
   - a discord-based modular Command-and-Control architecture proof of concept
 - [**Red Team lab**](https://github.com/Cn-54/Red-Team-Lab) - Python
   - Isolated Docker labs and custom PoCs for CVEs.
 - [**python-port-scanner**](https://github.com/Cn-54/python-port-scanner) - Python
   - Simple TCP port scanner.
+- [**Concord**](https://github.com/Cn-54/Concord) - C
+    - File analyser
 - [**Hexdump-C**](https://github.com/Cn-54/Hexdump-C) - C
   - Memory dump tool.
 - [**16-Bit CPU**](https://github.com/Cn-54/16-bit_CPU) - C
