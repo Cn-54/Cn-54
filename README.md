@@ -24,8 +24,6 @@ low-level programming, networking and security.
   - a discord-based modular Command-and-Control architecture proof of concept
 - [**Red Team lab**](https://github.com/Cn-54/Red-Team-Lab) - Python
   - Isolated Docker labs and custom PoCs for CVEs.
-- [**python-port-scanner**](https://github.com/Cn-54/python-port-scanner) - Python
-  - Simple TCP port scanner.
 - [**Concord**](https://github.com/Cn-54/Concord) - C
     - File analyser
 - [**Hexdump-C**](https://github.com/Cn-54/Hexdump-C) - C
