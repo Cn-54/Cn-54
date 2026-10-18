@@ -20,7 +20,7 @@ low-level programming, networking and security.
 
 - [**RepoRecon**](https://github.com/Cn-54/RepoRecon) - Python
   - GitHub OSINT and reconnaissance CLI tool.
-- [**Conduit**](https://github.com/Cn-54/Dissonance) - Python
+- [**Conduit**](https://github.com/Cn-54/Conduit) - Python
   - a discord-based modular Command-and-Control architecture proof of concept
 - [**Red Team lab**](https://github.com/Cn-54/Red-Team-Lab) - Python
   - Isolated Docker labs and custom PoCs for CVEs.
